@@ -1,0 +1,41 @@
+header {
+  background-color: #006600;
+  border-radius: 10px;
+}
+
+.logo {
+  width: 270px;
+  margin-left: 10px;
+}
+
+.well {
+  width: 50%;
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 25%;
+}
+
+h3 {
+
+  padding: 15px;
+  text-decoration: underline;
+}
+
+li {
+  text-align: left;
+}
+
+.foodTitle {
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 8px;
+}
+
+#add {
+  margin: 0px 90px 0px 90px;
+  border-radius: 15px;
+}
+
+.editForm {
+  text-align: center;
+}
